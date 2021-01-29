@@ -1,0 +1,12 @@
+Model View Controller
+
+Fridge 	>>> Data
+Cook	>>> Model
+Waiter	>>> Controller
+You		>>> View
+
+Reduce dependency between the modules
+
+Good to use on complex applications
+
+Overkill to use on simple applications
